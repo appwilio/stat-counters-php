@@ -1,3 +1,3 @@
 ({
-	block: 'qqq'
+	block : 'qqq'
 })

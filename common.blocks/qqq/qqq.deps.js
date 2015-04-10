@@ -1,6 +1,6 @@
 [{
     tech : 'tmpl-spec.js',
     mustDeps : [
-	{ block : 'i-bem' }
+        { tech : 'bemhtml', block : 'i-bem' }
     ]
 }]
