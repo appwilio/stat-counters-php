@@ -1,0 +1,8 @@
+block('qqq')(
+    def()(function () {
+	console.log('asdasdasd');
+	applyNext();
+    }),
+    js()(true),
+    content()('qqq')
+);
